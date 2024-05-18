@@ -3,7 +3,7 @@
 A MERN application for basic tasks management.
 
 ## Table of Contents
-
+- [Images](#images)
 - [Features](#features)
 - [Tools and Technologies](#tools-and-technologies)
 - [Dependencies](#dependencies)
@@ -13,8 +13,12 @@ A MERN application for basic tasks management.
 - [Backend API](#backend-api)
 - [frontend pages](#frontend-pages)
 - [npm scripts](#npm-scripts)
-- [Useful Links](#useful-links)
-- [Contact](#contact)
+
+## Images
+
+<img width="800" alt="HomePage" src="https://github.com/Akshaychavan41/Task-Manager-App-MERN/assets/17724350/e1b0065e-bf1b-4c2a-9032-444384ca5826">
+<img width="800" alt="Login" src="https://github.com/Akshaychavan41/Task-Manager-App-MERN/assets/17724350/b80e86c2-6c23-457e-b43c-7381c937aade">
+<img width="800" alt="Tasks" src="https://github.com/Akshaychavan41/Task-Manager-App-MERN/assets/17724350/d52679e2-bdfb-479e-8113-076332778104">
 
 ## Features
 
